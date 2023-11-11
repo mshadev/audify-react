@@ -9,7 +9,7 @@ export const bentoItems: IBentoItem[] = [
       static: "https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/emoji.svg",
       animated: "https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp",
     },
-    class: "col-span-1",
+    class: "col-span-2",
   },
   {
     title: "Age Group",
@@ -19,7 +19,7 @@ export const bentoItems: IBentoItem[] = [
       static: "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4af/emoji.svg",
       animated: "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4af/512.webp",
     },
-    class: "col-span-1",
+    class: "col-span-2",
   },
   {
     title: "Educational Background",
@@ -47,7 +47,7 @@ export const bentoItems: IBentoItem[] = [
       static: "https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/emoji.svg",
       animated: "https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.webp",
     },
-    class: "col-span-1",
+    class: "col-span-2",
   },
   {
     title: "Family Status",
@@ -65,7 +65,7 @@ export const bentoItems: IBentoItem[] = [
       static: "https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/emoji.svg",
       animated: "https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.webp",
     },
-    class: "col-span-1",
+    class: "col-span-2",
   },
   {
     title: "Political Views",
@@ -139,7 +139,7 @@ export const bentoItems: IBentoItem[] = [
       static: "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/emoji.svg",
       animated: "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/512.webp",
     },
-    class: "col-span-3",
+    class: "col-span-2",
   },
   {
     title: "Emotional Needs",
@@ -157,7 +157,7 @@ export const bentoItems: IBentoItem[] = [
       static: "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/emoji.svg",
       animated: "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/512.webp",
     },
-    class: "col-span-1",
+    class: "col-span-2",
   },
   {
     title: "Entertainment Needs",
@@ -175,7 +175,7 @@ export const bentoItems: IBentoItem[] = [
       static: "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/emoji.svg",
       animated: "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/512.webp",
     },
-    class: "col-span-1",
+    class: "col-span-2",
   },
   {
     title: "Interests",
@@ -184,7 +184,7 @@ export const bentoItems: IBentoItem[] = [
       static: "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/emoji.svg",
       animated: "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/512.webp",
     },
-    class: "col-span-1",
+    class: "col-span-2",
   },
   {
     title: "Barriers",
@@ -193,7 +193,7 @@ export const bentoItems: IBentoItem[] = [
       static: "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/emoji.svg",
       animated: "https://fonts.gstatic.com/s/e/notoemoji/latest/1fae5/512.webp",
     },
-    class: "col-span-1",
+    class: "col-span-2",
   },
   {
     title: "Goals",
