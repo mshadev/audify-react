@@ -13,14 +13,14 @@ export default function Hello() {
 
   return (
     <>
-      <div className="container lx:px-32 max-w-5xl py-24 mx-auto">
+      <div className="container lx:px-32 max-w-5xl pt-8 mx-auto">
+        <div className="my-20 text-center">
+          <Heading />
+        </div>
+
         <div className="flex gap-4 grow">
           <Input />
           <Button>Get Insight</Button>
-        </div>
-
-        <div className="my-20 text-center">
-          <Heading />
         </div>
 
         <div className="my-20">
