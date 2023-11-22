@@ -1,5 +1,6 @@
 import { ReactComponent as ArrowSVG } from "assets/svg/arrow-left.svg";
 import { Card } from "components/card/Card";
+import { useEffect } from "react";
 
 export const ResultView = () => {
   return (
@@ -21,9 +22,7 @@ export const ResultView = () => {
         </header>
       </div>
 
-      <div className="container max-w-5xl mx-auto cards pt-10">
-        <Card />
-      </div>
+      <div className="container max-w-5xl mx-auto cards mt-16 gap-12 flex flex-col"></div>
     </>
   );
 };
